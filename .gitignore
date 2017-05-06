@@ -14,5 +14,5 @@
 .idea/workspace.xml
 game_walk.iml
 lib/
-pom.xml
 target/
+*.class

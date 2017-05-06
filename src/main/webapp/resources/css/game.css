@@ -1,0 +1,16 @@
+#header {
+    color: brown;
+}
+
+.codeDone {
+    color: brown;
+}
+
+.bigImage {
+    max-height: 800px;
+    max-width: 800px;
+}
+
+.finalLi {
+    list-style: none;
+}
